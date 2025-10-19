@@ -7,3 +7,4 @@ help_button = KeyboardButton(f"{emoji.WHITE_QUESTION_MARK} Помощь")
 
 start_quiz_button = KeyboardButton(f"Начать квиз")
 
+print()
